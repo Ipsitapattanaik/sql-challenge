@@ -21,6 +21,6 @@ Data analysis performed in files:
 # Bonus Analysis
 Proving that the dataset is fake. 
 
-![Fig2](EmployeeSQL/img/Fig1.JPG)
+![Fig2](EmployeeSQL/Img/Fig1.JPG)
 
-![Fig3](EmployeeSQL/img/Fig2.JPG)
+![Fig3](EmployeeSQL/Img/Fig2.JPG)
